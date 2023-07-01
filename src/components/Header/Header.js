@@ -10,7 +10,7 @@ const Header = () => {
       <Navbar className="nav-bg" variant="dark">
         <Container>
           <LinkContainer to={"/"}>
-            <Navbar.Brand>FC Market</Navbar.Brand>
+            <Navbar.Brand>Store React</Navbar.Brand>
           </LinkContainer>
           <Nav>
             <LinkContainer to={"/cart"}>
